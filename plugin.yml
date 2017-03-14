@@ -1,0 +1,12 @@
+main: me.Tiernanator.MickTagger.Main
+version: 2.0
+name: Mick_Tagger
+description: Tag your it!
+load: POSTWORLD
+author: Tiernanator
+website: None
+database: false
+depend: [Utilities, Factions, Permissions]
+prefix: Tagger
+softdepend: []
+loadbefore: []
