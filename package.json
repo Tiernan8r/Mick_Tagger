@@ -1,0 +1,9 @@
+{
+  "name": "Mick_Tagger",
+  "version": "1.0.0",
+  "dependencies": {
+    "Utilities" : "1.0.0",
+    "Factions" : "1.0.0",
+    "Permissions" : "1.0.0"
+  }
+}
